@@ -20,4 +20,6 @@ newman run ./automate-test-101.postman_collection.json
 
 ## ref
 
-https://github.com/postmanlabs/newman#using-newman-cli
+- [Postman Cheatsheet](https://postman-quick-reference-guide.readthedocs.io/en/latest/cheatsheet.html#postman-cheatsheet)
+
+- [Newman github](https://github.com/postmanlabs/newman#using-newman-cli)
